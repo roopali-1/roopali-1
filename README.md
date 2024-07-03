@@ -11,7 +11,7 @@
 
 - 📫 Reach me at Gmail - **nroopalisharma12@gmail.com**
 
-- 🔗 Connect with me at LinkedIn [www.linkedin.com/in/roopali-sharma-54b44a1b7/](www.linkedin.com/in/roopali-sharma-54b44a1b7/)
+- 🔗 Connect with me at LinkedIn (www.linkedin.com/in/roopali-sharma-54b44a1b7/)
 
 - ❤️ **I love learning new things!**
 
