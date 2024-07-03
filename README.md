@@ -1,16 +1,19 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Roopali Sharma</h1>
+<h3 align="center">A passionate Data Analyst📊 from India</h3>
 
-<!--
-**roopali-1/roopali-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭  **I’m Passionate lifelong learner diving deep into Data Analytics to unearth insights and drive informed decisions.**
 
-Here are some ideas to get you started:
+- 📚  **Specialized in data collection, data cleaning, data analysis, and data visualization.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱  **I’m currently learning and upskilling myself.**
+
+- 🧰  **My analytics toolbox contains SQL, Python, Power BI, DAX, Power Query & MS Excel.**
+
+- 📫 Reach me at Gmail - **nroopalisharma12@gmail.com**
+
+- 🔗 Connect with me at LinkedIn [www.linkedin.com/in/roopali-sharma-54b44a1b7/](www.linkedin.com/in/roopali-sharma-54b44a1b7/)
+
+- ❤️ **I love learning new things!**
+
+<p align="left">
+</p>
