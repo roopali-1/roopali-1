@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Roopali Sharma</h1>
-<h3 align="center">A passionate Data Analyst📊 from India</h3>
+<h3 align="center">A passionate Data Analyst📊</h3>
 
 - 🔭 **I’m Passionate lifelong learner diving deep into Data Analytics to unearth insights and drive informed decisions.**
 
